@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou Charles Vilela 👋
 
 <!--
 **CharlesVilela/CharlesVilela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Atualmente estou trabalhando como: full stack
+- Trabalho na: Fundação para Inovações Tecnológicas - FITec
+- Pronomes: ele/dele
+- Atualmente estou estudando sobre análise de dados
+
+
+
