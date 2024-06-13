@@ -15,10 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Formação**
+- Graduando em: Licenciatura em Computação
+
+**Experiencia profissional**
 - Atualmente estou trabalhando como: full stack
 - Trabalho na: Fundação para Inovações Tecnológicas - FITec
 - Pronomes: ele/dele
 - Atualmente estou estudando sobre análise de dados
+
+**Linguagens de programação**
+- Java
+- Python
+- Javascript
+- Typescript
 
 
 
