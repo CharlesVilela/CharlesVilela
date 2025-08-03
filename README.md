@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 **Formação**
-- Graduando em: Licenciatura em Computação
+- Graduado em: Licenciatura em Computação pela (Universidade de Pernambuco)
 
 **Experiencia profissional**
-- Atualmente estou trabalhando como: full stack
+- Atualmente estou trabalhando como: Desenvolvedor Júnior
 - Trabalho na: Fundação para Inovações Tecnológicas - FITec
 - Pronomes: ele/dele
 - Atualmente estou estudando sobre análise de dados
